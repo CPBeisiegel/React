@@ -1,0 +1,18 @@
+.aumentar{
+    background-color: #00ff00;
+    border: none;
+    padding: 10px;
+    width: 50%;
+}
+.diminuir{
+    background-color: red;
+    border: none;
+    padding: 10px;
+    width: 50%;
+}
+.zerar{
+    background-color: gray;
+    border: none;
+    padding: 10px;
+    width: 100%;
+}
